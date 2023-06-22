@@ -22,3 +22,8 @@
 <div> 
   <a href="https://www.linkedin.com/in/olivioneto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
+
+<div style="display: block"><br>
+  <div style= "display: grid">
+  <img align="left" height="200" width="200" src="https://github.com/OlivioNeto/OlivioNeto/assets/127052042/f031f120-c176-4434-88ae-e04adf7b4845"/>
+  </div>
