@@ -3,12 +3,15 @@
 ##
 
 <div align="left">
-<img align = "right" width = "400px"  src = "https://i.pinimg.com/originals/a9/24/3d/a9243d82d3ad7878192211221b25a18c.gif">
 <img height = "85px" src = "https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" >
-  <h1  &ensp; <i> I'm Olívio Neto.</i> &ensp;</h1>
+  
+<img align = "right" width = "400px"  src = "https://i.pinimg.com/originals/a9/24/3d/a9243d82d3ad7878192211221b25a18c.gif">
 
-- 🔭 Sou técnico em desenvolvimento de sistemas formado pela Etec Jales, atualmente busco a primeira oportunidade na área.
-- 🌱 Atualmente faço graduação em desenvolvimento de sistemas pela Fatec Jales.
+<br> 
+    
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&pause=1000&color=980DE6&v&left=true&width=600&lines=+Eu+sou+Olivio+Neto%2C;+Técnico+em+Desenvolvimento+de+Sistemas+pela+Etec+Jales.;Cursando+Análise+e+Desenvolvimento+de+Sistemas+na+Fatec.)](https://git.io/typing-svg)
+
+<br> <br> <br> <br>
 
 <div align="center">
   <a href="https://github.com/olivioneto/">
