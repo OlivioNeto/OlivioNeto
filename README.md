@@ -12,8 +12,9 @@
 
 <div align="center">
   <a href="https://github.com/olivioneto/">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=olivioneto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivioneto&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivioneto&layout=compact&langs_count=7&theme=radical&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/>
+    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olivioneto&show_icons=true&theme=radical&include_all_commits=true&count_private=true&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/>
 </div>
 
 <div style="display: inline_block"><br>
