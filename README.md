@@ -7,8 +7,6 @@
   
 <img align = "right" width = "400px"  src = "https://i.pinimg.com/originals/a9/24/3d/a9243d82d3ad7878192211221b25a18c.gif">
 
-<br> 
-    
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&pause=1000&color=00008B&v&left=true&width=600&lines=+Eu+sou+Olivio+Neto%2C;+Técnico+em+Desenvolvimento+de+Sistemas+pela+Etec+Jales.;Cursando+Análise+e+Desenvolvimento+de+Sistemas+na+Fatec.)](https://git.io/typing-svg)
 </div>
 <br> <br> <br> <br>
