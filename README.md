@@ -5,7 +5,7 @@
 <div align="left">
 <img height = "85px" src = "https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" >
   
-<img align = "right" width = "400px"  src = "https://i.pinimg.com/originals/a9/24/3d/a9243d82d3ad7878192211221b25a18c.gif">
+<img align = "right" width = "300px"  src = "https://i.pinimg.com/originals/a9/24/3d/a9243d82d3ad7878192211221b25a18c.gif">
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&pause=1000&color=00008B&v&left=true&width=600&lines=+Eu+sou+Olivio+Neto%2C;+Técnico+em+Desenvolvimento+de+Sistemas+pela+Etec+Jales.;Cursando+Análise+e+Desenvolvimento+de+Sistemas+na+Fatec.)](https://git.io/typing-svg)
 </div>
