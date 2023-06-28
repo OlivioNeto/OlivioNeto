@@ -9,7 +9,7 @@
 
 <br> 
     
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&pause=1000&color=980DE6&v&left=true&width=600&lines=+Eu+sou+Olivio+Neto%2C;+Técnico+em+Desenvolvimento+de+Sistemas+pela+Etec+Jales.;Cursando+Análise+e+Desenvolvimento+de+Sistemas+na+Fatec.)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&pause=1000&color=00008B&v&left=true&width=600&lines=+Eu+sou+Olivio+Neto%2C;+Técnico+em+Desenvolvimento+de+Sistemas+pela+Etec+Jales.;Cursando+Análise+e+Desenvolvimento+de+Sistemas+na+Fatec.)](https://git.io/typing-svg)
 
 <br> <br> <br> <br>
 
