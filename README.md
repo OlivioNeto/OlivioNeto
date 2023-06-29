@@ -18,7 +18,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olivioneto&show_icons=true&theme=radical&include_all_commits=true&count_private=true&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/>
 </div>
 
-<div style="display: inline_block"><br>
+
+<div align="center" style="display: inline_block"><br>
+  <h2 align="center">🛠️&ensp; <i>L I N G U A G E N S</i> &ensp;🛠️</h2>
   <img align="center" alt="Java logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Js logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
