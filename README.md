@@ -43,7 +43,7 @@
  ### 👀👀👀
   
 <div>
-  <img  src="https://profile-counter.glitch.me/OlivioNeto/count.svg" > 
+  <img align="center" src="https://profile-counter.glitch.me/OlivioNeto/count.svg" > 
 </div>
 <br>
 
