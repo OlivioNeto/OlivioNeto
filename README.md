@@ -36,6 +36,7 @@
   <div style= "display: grid">
   <img align="left" height="200" width="200" src="https://github.com/OlivioNeto/OlivioNeto/assets/127052042/f031f120-c176-4434-88ae-e04adf7b4845"/>
   </div>
+</div>
 
   ![Snake animation](https://github.com/OlivioNeto/OlivioNeto/blob/output/github-contribution-grid-snake.svg)
 
