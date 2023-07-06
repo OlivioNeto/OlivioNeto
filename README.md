@@ -30,15 +30,23 @@
 
 ##
 
-<div> 
-  <a href="https://www.linkedin.com/in/olivioneto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<div align="center">  
+  <div style= "display: grid">
+  <a href = "mailto:netooolivio34@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a style="margin-left: -100px" href="https://www.linkedin.com/in/olivioneto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://netoolivio34.wixsite.com/meuportfolio" target="_blank"><img src="https://img.shields.io/badge/Portfólio-%23E60023?style=for-the-badge&logo=devdotto&logoColor=white"></a>
+</div> 
 </div>
 
-<div style="display: block"><br>
+<br>
+
+<div align="center">
   <div style= "display: grid">
-  <img align="left" height="200" width="200" src="https://github.com/OlivioNeto/OlivioNeto/assets/127052042/f031f120-c176-4434-88ae-e04adf7b4845"/>
+  <img align="center" height="200" width="200" src="https://github.com/OlivioNeto/OlivioNeto/assets/127052042/f031f120-c176-4434-88ae-e04adf7b4845"/>
   </div>
 </div>
+
+
 
   ![Snake animation](https://github.com/OlivioNeto/OlivioNeto/blob/output/github-contribution-grid-snake.svg)
 
