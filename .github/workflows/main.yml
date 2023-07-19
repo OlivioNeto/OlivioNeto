@@ -14,7 +14,7 @@ jobs:
       # - uses: Platane/snk@master
       #   id: snake-gif
       #   with:
-      #     github_user_name: heyyana
+      #     github_user_name: OlivioNeto
       #     svg_out_path: dist/github-contribution-grid-snake.svg
 
       # gera um jogo da cobra a partir do gráfico de contribuições de um usuário do GitHub (<github_user_name>), produzindo uma animação SVG em <svg_out_path>
